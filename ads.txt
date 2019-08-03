@@ -33,6 +33,7 @@ genieesspv.jp,4863,RESELLER
 gmossp-sp.jp,2000505,RESELLER
 google.com,pub-4094152962392845,RESELLER,f08c47fec0942fa0
 google.com,pub-4231984443817768,RESELLER,f08c47fec0942fa0
+google.com, pub-2505812570403600, DIRECT, f08c47fec0942fa0
 i-mobile.co.jp,12601,RESELLER
 i-mobile.co.jp,14087,RESELLER
 i-mobile.co.jp,25572,RESELLER

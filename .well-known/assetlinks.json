@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "org.yyama.gyakutter.twa",
+               "sha256_cert_fingerprints": ["AF:F3:68:BE:B2:63:5E:26:65:9A:43:6B:3C:73:C8:0D:3C:D9:90:32:41:E1:3D:5F:3B:4C:08:DA:F5:AE:3B:34"] }
+}]
